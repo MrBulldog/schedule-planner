@@ -2,3 +2,4 @@ Task
 mencari jadwal kajian
 buat virtual machine
 pelajari mobile platfrom
+pelajari database sql dan non sql
